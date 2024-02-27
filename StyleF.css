@@ -1,0 +1,32 @@
+body{
+    border: 2px yellow outside;
+    border-radius: 12px;
+    text-align: center;
+	border:2px solid black;
+	background-color:white;
+	margin:auto;
+	font-size:20px;
+	padding:3%;
+	width:45%;
+	
+	
+	
+}
+h3
+{
+    text-align: center;
+	text-decoration:underline;
+}
+label
+{
+	 display:inline-block;
+	 width:10%;
+	 margin:2%;
+	 font-size:20px;
+	
+}
+#k
+{
+	padding:5%;
+}
+
